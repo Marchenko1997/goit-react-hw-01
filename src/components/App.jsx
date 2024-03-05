@@ -2,7 +2,7 @@ import './App.css';
 import Profile from './Profile/Profile';
 import userData from '../userData.json';
 import Friendslist from './Friendslist/Friendslist';
-import friends from '../friends.json';
+import friends from '../friendsData.json';
 
 export default function App() {
   return (
